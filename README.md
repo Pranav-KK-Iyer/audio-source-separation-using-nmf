@@ -64,6 +64,21 @@ NMF enables separation of dominant spectral components without prior labeling (b
 
 ---
 
+## ▶ How to Run
+
+1. Open MATLAB.
+2. Navigate to the project directory.
+3. Run:
+
+   
+The script will automatically:
+- Perform STFT
+- Apply NMF
+- Reconstruct separated sources
+- Save outputs in the `results/` folder.
+
+---
+
 ## 📂 Repository Structure
 audio-source-separation-using-nmf/
 │
