@@ -99,8 +99,8 @@ audio-source-separation-using-nmf/
 
 ### 🎵 Separated Audio Outputs
 
-- `bass.wav`
-- `drum.wav`
+- `bass.wav`  
+- `drum.wav`  
 - `guitar.wav`
 
 ### 📈 Spectrogram Comparison
