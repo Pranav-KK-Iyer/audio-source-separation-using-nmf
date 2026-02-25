@@ -99,23 +99,19 @@ audio-source-separation-using-nmf/
 
 ### 🎵 Separated Audio Outputs
 
-- `separated_drum.wav`
-- `separated_bass.wav`
+- `bass.wav`
+- `drum.wav`
+- `guitar.wav`
 
-### 📈 Spectrogram Visualization
+### 📈 Spectrogram Comparison
 
-![Spectrogram](results/spectrogram.png)
+![Separation Comparison](results/separation_comparison.png)
 
-The NMF decomposition successfully separates dominant spectral components corresponding to drum and bass sources.
----
+The NMF-based decomposition successfully separates:
 
-## 🚀 Applications
-
-- Music source separation  
-- Speech enhancement  
-- Noise reduction systems  
-- Audio preprocessing for machine learning  
-- Biomedical signal analysis  
+- Low-frequency harmonic structure → **Bass**
+- Broadband percussive components → **Drum**
+- Mid-frequency harmonic content → **Guitar**
 
 ---
 
