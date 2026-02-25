@@ -1,3 +1,9 @@
+% Blind Audio Source Separation using STFT and NMF
+% Author: Pranav KK Iyer
+% Description:
+% Performs time-frequency analysis, NMF-based decomposition,
+% and reconstruction of bass, drum, and guitar.
+
 clear all;
 close all;
 clc
