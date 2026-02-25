@@ -97,11 +97,16 @@ audio-source-separation-using-nmf/
 
 ## 📊 Results
 
-- Successful decomposition of mixed audio signal  
-- Clear separation of drum and bass frequency components  
-- Reconstruction of individual sources using inverse STFT  
-- Demonstrates effectiveness of blind matrix factorization  
+### 🎵 Separated Audio Outputs
 
+- `separated_drum.wav`
+- `separated_bass.wav`
+
+### 📈 Spectrogram Visualization
+
+![Spectrogram](results/spectrogram.png)
+
+The NMF decomposition successfully separates dominant spectral components corresponding to drum and bass sources.
 ---
 
 ## 🚀 Applications
