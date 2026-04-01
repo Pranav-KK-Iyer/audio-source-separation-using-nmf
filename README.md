@@ -1,4 +1,4 @@
-# 🎧 Blind Audio Source Separation using STFT and NMF
+#  Blind Audio Source Separation using STFT and NMF
 
 ## 📌 Project Overview
 
@@ -22,7 +22,7 @@ The system performs complete end-to-end processing:
 
 ---
 
-## 🧠 Technical Background
+##  Technical Background
 
 ### 1️⃣ Short-Time Fourier Transform (STFT)
 
@@ -100,7 +100,7 @@ audio-source-separation-using-nmf/
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
 - MATLAB  
 - Signal Processing Techniques  
@@ -110,9 +110,9 @@ audio-source-separation-using-nmf/
 
 ---
 
-## 📊 Results
+## Results
 
-### 🎵 Separated Audio Outputs
+### Separated Audio Outputs
 
 - `bass.wav`  
 - `drum.wav`  
@@ -130,7 +130,7 @@ The NMF-based decomposition successfully separates:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Sparse NMF implementation  
 - Comparison with Independent Component Analysis (ICA)  
@@ -139,8 +139,8 @@ The NMF-based decomposition successfully separates:
 
 ---
 
-## 👨‍💻 Author
-
+## Author
+Pranav Krishnakumar Iyer
 Electronics and Communication Engineering Undergraduate  
 Interested in:
 - Signal Processing  
